@@ -1,0 +1,2 @@
+# K-means-clustering-in-a-Distributed-Setting
+I have applied distributed computing concepts using Message Passing Interface API provided by Python (mpi4py) to Natural Language Processing (NLP) techniques using complex data in the form of text documents. For this i have used \Twenty News- groups" corpus (data set) available at UCI repository https://archive.ics.uci.edu/ml/datasets/ Twenty+Newsgroups.
